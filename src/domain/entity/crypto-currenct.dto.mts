@@ -1,6 +1,5 @@
 export type CryptoCurrencyDTO = {
-  id: string;
+  id: number;
   symbol: string;
   price: number;
-  timestamp: Date;
 };
