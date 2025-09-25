@@ -3,5 +3,6 @@
 ## Start project
 
 ```bash
+cp .env.example .env
 pnpm run start
 ```
